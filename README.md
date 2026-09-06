@@ -9,7 +9,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
-[![Stars](https://img.shields.io/github/stars/yourusername/IconDrop.svg?label=Stars)](https://github.com/yourusername/IconDrop/stargazers)
+[![Stars](https://img.shields.io/github/stars/Oane-awa/icondrop.svg?label=Stars)](https://github.com/Oane-awa/icondrop/stargazers)
 [![Windows](https://img.shields.io/badge/platform-Windows-0078d7.svg)](https://www.microsoft.com/windows)
 
 </div>
